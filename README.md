@@ -1,2 +1,2 @@
-# tf_kanerva_machine
-The implementation of "The Kanerva Machine" with Tensorflow and Tensorflow-Probability
+# tf_kanerva_machine -WIP-
+The implementation of "The Kanerva Machine" with Pytorch and Pyro.
