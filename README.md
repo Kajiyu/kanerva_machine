@@ -1,2 +1,2 @@
-# tf_kanerva_machine -WIP-
+# The Kanerva Machine -WIP-
 The implementation of "The Kanerva Machine" with Pytorch and Pyro.
